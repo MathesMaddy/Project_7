@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+    background-color:lavender;
+    text-align:center;
+}
+button:hover{
+    background-color: #86b9f0;
+}
+button{
+    padding: 10px 20px;margin-top:16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+input{
+    padding:5px 10px;
+    background-color:rgb(201, 241, 255);
+    border-radius: 5px;
+}
